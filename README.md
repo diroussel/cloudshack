@@ -1,14 +1,12 @@
-# http4k + Heroku + Travis 
+# Cloudshack 
 
-[![build status](https://travis-ci.org/http4k/http4k-heroku-travis-example-app.svg?branch=master)](https://travis-ci.org/http4k/http4k-heroku-travis-example-app.svg?branch=master)
+[![build status](https://api.travis-ci.org/diroussel/cloudshack.svg?branch=master)](https://dashboard.heroku.com/apps/cloudshack)
 
 This application gets deployed to Heroku on every push to GitHub
 
-## Pre-requisites
+## Based On
 
-You need to have installed:
-* [Heroku Toolbelt](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
-* [Travis CLI](https://github.com/travis-ci/travis.rb#installation)
+The basic setup for this project was provided by [http4k + Heroku + Travis](https://github.com/http4k/http4k-bootstrap)
 
 ## Getting Started
 
